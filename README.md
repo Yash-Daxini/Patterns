@@ -11,6 +11,8 @@ Print these patterns using loops:
     ***** 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern1.java)
+
 ```text
 
 2.  *
@@ -20,6 +22,8 @@ Print these patterns using loops:
     *****
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern2.java)
 
 ```text
 
@@ -31,6 +35,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern3.java)
+
 ```text
 
 4.  1
@@ -40,6 +46,8 @@ Print these patterns using loops:
     1 2 3 4 5
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern4.java)
 
 ```text
 
@@ -55,6 +63,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern5.java)
+
 ```text
 
 6.       *
@@ -64,6 +74,8 @@ Print these patterns using loops:
      *****
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern6.java)
 
 ```text
 
@@ -75,6 +87,8 @@ Print these patterns using loops:
          
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern7.java)
+
 ```text
 
 8.      *
@@ -84,6 +98,8 @@ Print these patterns using loops:
     *********
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern8.java)
 
 ```text
 
@@ -95,6 +111,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern9.java)
+
 ```text
 
 10.      *
@@ -105,6 +123,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern10.java)
+
 ```text
 
 11.  * * * * *
@@ -114,6 +134,8 @@ Print these patterns using loops:
          *
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern11.java)
 
 ```text
 
@@ -130,6 +152,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern12.java)
+
 ```text
 
 13.      *
@@ -140,6 +164,8 @@ Print these patterns using loops:
 
 ```
 
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern13.java)
+
 ```text
 
 14.  *********
@@ -149,6 +175,8 @@ Print these patterns using loops:
          *
          
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern14.java)
 
 ```text
 
@@ -163,6 +191,8 @@ Print these patterns using loops:
          *
 
 ```
+
+[Code](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern15.java)
 
 ```text
 
