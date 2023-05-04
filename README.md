@@ -350,6 +350,8 @@ Print these patterns using loops:
 
 ```
 
+[Code For Pattern 27](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern27.java)
+
 ```text
 
 28.      *
